@@ -1,0 +1,3 @@
+Expectations for the Course:
+    - I expect the course to be challenging and insightful especially with regards to efficiency in web development
+    
